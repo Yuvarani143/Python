@@ -1,4 +1,3 @@
-# Python
 size=input("enter the size")
 bill=0
 if(size=='s' or size== 'S'):
